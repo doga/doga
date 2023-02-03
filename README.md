@@ -4,8 +4,7 @@ Hi 👋 My name is Doğa Armangil
 ### Skills
 
 <p align="left">
-Web:
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+Web: <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -15,6 +14,7 @@ Mobile:
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 
+Semantic data:
 <a href="http://json-ld.org/" title="JSON-LD semantic data format"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a>
 <a href="https://www.w3.org/TR/turtle/" title="Turtle semantic data format"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/TR/shacl/" title="Shapes Constraint Language (SHACL)"><img style="border:0px;" width="36" src="./logos/shacl.svg" alt="Shapes Constraint Language (SHACL)"/></a>
