@@ -23,6 +23,6 @@ Qworum is the Service Web
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://stripe.com/en-ch/connect" target="_blank" rel="noreferrer"><img src="./logos/stripe.svg" height="36" alt="Stripe Connect" /></a>
-<a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="./logos/google-cloud.svg" height="36" alt="Google Maps Platform" /></a>
+<a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="./logos/google-maps.svg" height="36" alt="Google Maps Platform" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="./logos/google-cloud.svg" height="36" alt="Google Cloud" /></a>
 </p>
