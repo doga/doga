@@ -3,10 +3,14 @@ Qworum is the Service Web
 
 Although much of what I do is closed source, some of my work is published on GitHub. Here are my most notable open source projects.
 
-Projects that are useful for [Qworum](https://qworum.net) developers (Qworum is a new enterprise PaaS):
+## Qworum enterprise PaaS
+
+Projects that are useful for [Qworum](https://qworum.net) developers:
 
 - [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
 - [Sample Qworum-based distributed web application](https://github.com/doga/qworum-demo).
+
+## Lume i18n
 
 I18n Projects that are useful for the developers of [Lume](https://lume.land/)-based static websites:
 
@@ -14,6 +18,7 @@ I18n Projects that are useful for the developers of [Lume](https://lume.land/)-b
 - [lume_navbardata](https://github.com/doga/lume_navbardata) Lume plugin,
 - [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) Lume post-processor.
 
+## What I am working with
 
 <p align="left">
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="./logos/google-chrome.svg" height="36" alt="Google Chrome" /></a>
