@@ -10,7 +10,10 @@ Hi 👋 My name is Doğa Armangil
 ### Semantic Web Skills
 
 <p align="left">
-<a href="http://json-ld.org/" title="JSON-LD Data"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a>
+<a href="http://json-ld.org/" title="JSON-LD semantic data format"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a>
+<a href="https://www.w3.org/TR/turtle/" title="Turtle semantic data format"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
+<a href="https://www.w3.org/TR/shacl/" title="Shapes Constraint Language (SHACL)"><img style="border:0px;" width="36" src="./logos/shacl.svg" alt="Shapes Constraint Language (SHACL)"/></a>
+<a href="https://www.w3.org/2001/sw/wiki/SPARQL" title="SPARQL Query Language for RDF"><img style="border:0px;" width="36" src="./logos/sparql.svg" alt="SPARQL Query Language for RDF"/></a>
 
 </p>
 
