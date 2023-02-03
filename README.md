@@ -43,5 +43,6 @@ Projects that are useful for the developers of [Lume](https://lume.land/)-based 
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer"><img src="./logos/netlify.svg" height="33" alt="Netlify" /></a>
 <a href="https://stripe.com/en-ch/connect" target="_blank" rel="noreferrer"><img src="./logos/stripe.svg" height="36" alt="Stripe Connect" /></a>
 <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="./logos/google-maps.svg" height="36" alt="Google Maps Platform" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./logos/docker.svg" height="36" alt="Docker" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="./logos/google-cloud.svg" height="36" alt="Google Cloud" /></a>
 </p>
