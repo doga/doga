@@ -14,9 +14,9 @@ Projects that are useful for [Qworum](https://qworum.net) developers:
 
 Projects that are useful for the developers of multi-language [Lume](https://lume.land/)-based static websites:
 
-- [lume_langdata](https://github.com/doga/lume_langdata) Lume plugin,
-- [lume_navbardata](https://github.com/doga/lume_navbardata) Lume plugin,
-- [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) Lume post-processor.
+- [lume_langdata](https://github.com/doga/lume_langdata) is a Lume plugin,
+- [lume_navbardata](https://github.com/doga/lume_navbardata) is a Lume plugin,
+- [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) is a Lume post-processor.
 
 ## What I am working with
 
