@@ -1,5 +1,8 @@
 Hi 👋 My name is Doğa Armangil
-==============================### Skills 
+==============================
+
+### Skills 
+
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -16,10 +19,9 @@ Hi 👋 My name is Doğa Armangil
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
-                  
-                <p align="left">
+                    <p align="left">
                           
                       <a href="https://www.github.com/doga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
