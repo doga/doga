@@ -4,6 +4,17 @@ Hi 👋 My name is Doğa Armangil
 ### Skills
 
 
+### Skills
+
+
+### Semantic Web Skills
+
+<p align="left">
+<a href="http://json-ld.org/" title="JSON-LD Data"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a>
+
+</p>
+
+
 <p align="left">
 <a href="http://json-ld.org/" title="JSON-LD Data"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a><a href="https://www.w3.org/RDF/" target="_blank" rel="noreferrer"><img src="./logos/rdf.svg" width="36" height="36" alt="RDF" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
