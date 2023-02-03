@@ -1,9 +1,22 @@
 Qworum is the Service Web
 =========================
 
+Although much of what I do is closed source, some of my work is published on GitHub. Here are my most notable open source projects.
+
+Projects that are useful for [Qworum](https://qworum.net) developers (Qworum is a new enterprise PaaS):
+
+- [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
+- [Sample Qworum-based distributed web application](https://github.com/doga/qworum-demo).
+
+I18n Projects that are useful for the developers of [Lume](https://lume.land/)-based static websites:
+
+- [lume_langdata](https://github.com/doga/lume_langdata) Lume plugin,
+- [lume_navbardata](https://github.com/doga/lume_navbardata) Lume plugin,
+- [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) Lume post-processor.
 
 
 <p align="left">
+<a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="./logos/google-chrome.svg" height="36" alt="Google Chrome" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,6 +37,5 @@ Qworum is the Service Web
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://stripe.com/en-ch/connect" target="_blank" rel="noreferrer"><img src="./logos/stripe.svg" height="36" alt="Stripe Connect" /></a>
 <a href="https://developers.google.com/maps" target="_blank" rel="noreferrer"><img src="./logos/google-maps.svg" height="36" alt="Google Maps Platform" /></a>
-<a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="./logos/google-chrome.svg" height="36" alt="Google Chrome" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="./logos/google-cloud.svg" height="36" alt="Google Cloud" /></a>
 </p>
