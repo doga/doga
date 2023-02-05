@@ -36,6 +36,7 @@ Projects that are useful for the developers of [Lume](https://lume.land/)-based 
 <a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./logos/deno.svg" width="36" height="36" alt="Deno" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Deno" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="./logos/ruby-on-rails.svg" width="36" height="36" alt="Ruby on Rails" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
