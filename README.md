@@ -18,7 +18,7 @@ Projects that are useful for [Qworum](https://qworum.net) developers are:
 
 ## Lume i18n
 
-Projects that are useful for the developers of [Lume](https://lume.land/)-based multi-language static websites:
+[Lume](https://lume.land/) is a static website generator. These Lume addons are useful for generating multi-language websites:
 
 - [lume_langdata](https://github.com/doga/lume_langdata) is a Lume plugin,
 - [lume_navbardata](https://github.com/doga/lume_navbardata) is a Lume plugin,
