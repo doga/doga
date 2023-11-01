@@ -7,7 +7,7 @@ Although much of what I do is closed source, some of my work is published on Git
 
 [Qworum](https://qworum.net) is:
 
-- A patented web API technology for modularising web application frontends. 
+- A [patented](https://patents.google.com/patent/US8266632) web API technology for modularising web application frontends. 
 - The missing frontend piece for __microservices architectures__.
 
 Projects that are useful for Qworum developers are:
