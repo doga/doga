@@ -3,9 +3,11 @@ Qworum is the Service Web
 
 Although much of what I do is closed source, some of my work is published on GitHub. Here are my most notable open source projects.
 
-## Qworum PaaS/iPaaS
+## Qworum
 
-Projects that are useful for [Qworum](https://qworum.net) developers:
+Qworum is a patented web API technology for modularising web application frontends.
+
+Projects that are useful for [Qworum](https://qworum.net) developers are:
 
 - [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
 - [A Qworum application demo](https://github.com/doga/qworum-demo).
