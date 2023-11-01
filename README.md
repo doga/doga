@@ -8,7 +8,8 @@ Although much of what I do is closed source, some of my work is published on Git
 Projects that are useful for [Qworum](https://qworum.net) developers:
 
 - [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
-- [Sample Qworum-based distributed web application](https://github.com/doga/qworum-demo).
+- [A Qworum application demo](https://github.com/doga/qworum-demo).
+- [A Qworum application template](https://github.com/doga/qworum-netlify-template).
 
 ## Lume i18n
 
