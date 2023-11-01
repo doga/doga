@@ -12,7 +12,7 @@ Although much of what I do is closed source, some of my work is published on Git
 
 Projects that are useful for Qworum developers are:
 
-- [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
+- [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages).
 - [A Qworum application demo](https://github.com/doga/qworum-demo).
 - [A Qworum application template](https://github.com/doga/qworum-netlify-template).
 
@@ -20,8 +20,8 @@ Projects that are useful for Qworum developers are:
 
 [Lume](https://lume.land/) is a static website generator. These Lume addons are useful for generating multi-language websites:
 
-- [lume_langdata](https://github.com/doga/lume_langdata) is a Lume plugin,
-- [lume_navbardata](https://github.com/doga/lume_navbardata) is a Lume plugin,
+- [lume_langdata](https://github.com/doga/lume_langdata) is a Lume plugin.
+- [lume_navbardata](https://github.com/doga/lume_navbardata) is a Lume plugin.
 - [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) is a Lume post-processor.
 
 ## What I am working with
