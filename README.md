@@ -5,12 +5,12 @@ Although much of what I do is closed source, some of my work is published on Git
 
 ## Qworum
 
-Qworum is:
+[Qworum](https://qworum.net) is:
 
 - A patented web API technology for modularising web application frontends. 
 - The missing frontend piece for __microservices architectures__.
 
-Projects that are useful for [Qworum](https://qworum.net) developers are:
+Projects that are useful for Qworum developers are:
 
 - [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages),
 - [A Qworum application demo](https://github.com/doga/qworum-demo).
