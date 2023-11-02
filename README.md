@@ -7,7 +7,7 @@ Although much of what I do is closed source, some of my work is published on Git
 
 [Qworum](https://qworum.net) is:
 
-- A new version of the web that is especially conceived for web applications, rather than content sites (the _Service/Application Web_ versus the current _Document Web_).
+- A new version of the web that is conceived as a platform for applications rather than content (the _Service/Application Web_ versus the current _Document Web_).
 - A [patented](https://patents.google.com/patent/US8266632) web API technology for modularising web application frontends. 
 - The missing frontend piece for __microservices architectures__.
 
