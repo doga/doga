@@ -37,6 +37,7 @@ Projects that are useful for Qworum developers are:
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.w3.org/2011/rdf-wg/wiki/Main_Page" title="RDF Resource Description Language"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
 <a href="http://json-ld.org/" title="JSON-LD semantic data format"><img style="border:0px;" width="36" src="http://json-ld.org/images/json-ld-data-64.png" alt="JSON-LD-logo-64"/></a>
 <a href="https://www.w3.org/TR/turtle/" title="Turtle semantic data format"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/TR/shacl/" title="Shapes Constraint Language (SHACL)"><img style="border:0px;" width="36" src="./logos/shacl.svg" alt="Shapes Constraint Language (SHACL)"/></a>
