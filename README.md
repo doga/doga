@@ -5,6 +5,8 @@ Although much of what I do is closed source, some of my work is published on Git
 
 ## Qworum
 
+![Qworum promo code](promo-code.png)
+
 [Qworum](https://qworum.net) is:
 
 - A new version of the web that is conceived as a platform for applications rather than content (the _Service/Application Web_ versus the current _Document Web_).
