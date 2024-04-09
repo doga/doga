@@ -9,7 +9,9 @@ Although much of what I do is closed source, some of my work is published on Git
 
 _Promo code: QRMSYY4IJCyNZ_
 
-[Qworum](https://qworum.net) is a PaaS/iPaaS hybrid that is based on the first API technology to support interactive processes:
+[Qworum](https://qworum.net) is a new variant of the World Wide Web that is especially suitable for applications (rather than content).
+
+Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes:
 
 - A new version of the web that is conceived as a platform for applications rather than content (the _Service/Application Web_ versus the current _Document Web_).
 - A [patented](https://patents.google.com/patent/US8266632) web API technology for modularising web application frontends. 
