@@ -11,13 +11,9 @@ _Promo code: QRMSYY4IJCyNZ_
 
 [Qworum](https://qworum.net) is a new variant of the World Wide Web that is especially suitable for applications (rather than content).
 
-Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes:
+Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes, based on a [software patent](https://patents.google.com/patent/US8266632).
 
-- A new version of the web that is conceived as a platform for applications rather than content (the _Service/Application Web_ versus the current _Document Web_).
-- A [patented](https://patents.google.com/patent/US8266632) web API technology for modularising web application frontends. 
-- The missing frontend piece for __microservices architectures__.
-
-Projects that are useful for Qworum developers are:
+Some projects that are useful for Qworum developers are:
 
 - [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages).
 - [A Qworum application demo](https://github.com/doga/qworum-demo).
