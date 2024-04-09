@@ -31,7 +31,7 @@ Projects that are useful for Qworum developers are:
 
 ## What I am working with
 
-[![The Semantic Web](.logos/semantic-web.svg)](https://www.w3.org/2001/sw/)
+[![The Semantic Web](./logos/semantic-web.svg)](https://www.w3.org/2001/sw/)
 [The Semantic Web](https://www.w3.org/2001/sw/)
 
 
