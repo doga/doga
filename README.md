@@ -21,11 +21,10 @@ Some projects that are useful for Qworum developers are:
 
 ## Lume i18n
 
-[Lume](https://lume.land/) is a static website generator. These Lume addons are useful for generating multi-language websites:
+[Lume](https://lume.land/) is a static website generator. These Lume plugins are useful for generating multi-language websites:
 
-- [lume_langdata](https://github.com/doga/lume_langdata) is a Lume plugin.
-- [lume_navbardata](https://github.com/doga/lume_navbardata) is a Lume plugin.
-- [lume_cross_language_content](https://github.com/doga/lume_cross_language_content) is a Lume post-processor.
+- [lume_langdata](https://github.com/doga/lume_langdata)
+- [lume_navbardata](https://github.com/doga/lume_navbardata)
 
 ## What I am working with
 
