@@ -31,10 +31,6 @@ Projects that are useful for Qworum developers are:
 
 ## What I am working with
 
-[![The Semantic Web](./logos/semantic-web.svg)](https://www.w3.org/2001/sw/)
-[The Semantic Web](https://www.w3.org/2001/sw/)
-
-
 <p align="left">
 <a href="https://qworum.net" target="_blank" rel="noreferrer"><img src="./logos/Qworum-logo.svg" height="36" alt="Qworum" /></a>
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="./logos/google-chrome.svg" height="36" alt="Google Chrome" /></a>
@@ -45,7 +41,7 @@ Projects that are useful for Qworum developers are:
 <a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./logos/deno.svg" width="36" height="36" alt="Deno" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.w3.org/2001/sw/" title="The Semantic Web"><img style="border:0px;" width="36" src="./logos/semantic-web.svg" alt="The Semantic Web"/></a>
+<a href="https://www.w3.org/2001/sw/" title="The Semantic Web"><img style="border:0px;" width="36" src="logos/semantic-web.svg" alt="The Semantic Web"/></a>
 <a href="https://www.w3.org/2011/rdf-wg/wiki/Main_Page" title="RDF Resource Description Language"><img style="border:0px;" width="36" src="./logos/rdf.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/TR/turtle/" title="Turtle semantic data format"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/2001/sw/wiki/SPARQL" title="SPARQL Query Language for RDF"><img style="border:0px;" width="36" src="./logos/sparql.svg" alt="SPARQL Query Language for RDF"/></a>
