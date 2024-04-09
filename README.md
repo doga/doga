@@ -5,7 +5,7 @@ Although much of what I do is closed source, some of my work is published on Git
 
 ## Qworum
 
-[![Qworum promo code](promo-code.png)](https://qworum.net/en/plans/)
+[![Qworum promo code](qworum-promo-code-QRMSYY4IJCyNZ.png)](https://qworum.net/en/plans/)
 
 _Promo code: QRMSYY4IJCyNZ_
 
