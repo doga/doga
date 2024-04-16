@@ -5,10 +5,6 @@ Although much of what I do is closed source, some of my work is published on Git
 
 ## Qworum
 
-[![Qworum promo code](qworum-promo-code-QRMSYY4IJCyNZ.png)](https://qworum.net/en/plans/)
-
-_Promo code: QRMSYY4IJCyNZ_
-
 [Qworum](https://qworum.net) is a new variant of the World Wide Web that is especially suitable for applications. This is contrast to the current Web that is still fundamentally a content platform, even if nowadays Web pages have significant amounts of JavaScript sprinkled on them.
 
 Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes, which in turn is based on a [software patent](https://patents.google.com/patent/US8266632).
