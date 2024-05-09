@@ -15,13 +15,6 @@ Some projects that are useful for Qworum developers are:
 - [A Qworum application demo](https://github.com/doga/qworum-demo).
 - [A Qworum application template](https://github.com/doga/qworum-netlify-template).
 
-## Lume i18n
-
-[Lume](https://lume.land/) is a static website generator. These Lume plugins are useful for generating multi-language websites:
-
-- [lume_langdata](https://github.com/doga/lume_langdata)
-- [lume_navbardata](https://github.com/doga/lume_navbardata)
-
 ## What I am working with
 
 <p align="left">
