@@ -9,12 +9,6 @@ Although much of what I do is closed source, some of my work is published on Git
 
 Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes, which in turn is based on a [software patent](https://patents.google.com/patent/US8266632).
 
-Some projects that are useful for Qworum developers are:
-
-- [Qworum's official JavaScript library for web frontends](https://github.com/doga/qworum-for-web-pages).
-- [A Qworum application demo](https://github.com/doga/qworum-demo).
-- [A Qworum application template](https://github.com/doga/qworum-netlify-template).
-
 ## What I am working with
 
 <p align="left">
