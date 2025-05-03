@@ -19,6 +19,7 @@ Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://deno.land/" target="_blank" rel="noreferrer"><img src="./logos/deno.svg" width="36" height="36" alt="Deno" /></a>
+<a href="https://graphdb.ontotext.com/" title="GraphDB from Ontotext"><img style="border:0px;" width="36" src="./logos/GraphDB-logo.svg" alt="GraphDB logo"/></a>
 <a href="https://www.w3.org/2011/rdf-wg/wiki/Main_Page" title="RDF Resource Description Language"><img style="border:0px;" width="36" src="./logos/rdf.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/TR/turtle/" title="Turtle semantic data format"><img style="border:0px;" width="36" src="./logos/turtle.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.w3.org/2001/sw/wiki/SPARQL" title="SPARQL Query Language for RDF"><img style="border:0px;" width="36" src="./logos/sparql.svg" alt="SPARQL Query Language for RDF"/></a>
