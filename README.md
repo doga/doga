@@ -1,4 +1,4 @@
-Qworum is the Service Web
+Qworum is the Web for applications
 =========================
 
 Although much of what I do is closed source, some of my work is published on GitHub. Here are my most notable open source projects.
