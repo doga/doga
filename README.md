@@ -15,12 +15,12 @@ Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API
 <a href="https://qworum.net" target="_blank" rel="noreferrer"><img src="./logos/Qworum-logo.svg" height="36" alt="Qworum" /></a>
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="./logos/chrome-extensions-logo.svg" height="36" alt="Google Chrome extensions" /></a>
 <a href="https://deno.com/" target="_blank" rel="noreferrer"><img src="./logos/deno.svg" width="36" height="36" alt="Deno" /></a>
+<a href="https://www.w3.org/2011/rdf-wg/wiki/Main_Page" title="RDF Resource Description Language"><img style="border:0px;" width="36" src="./logos/rdf.svg" alt="Turtle semantic data format"/></a>
 <a href="https://graphdb.ontotext.com/" title="GraphDB from Ontotext"><img style="border:0px;" width="36" src="./logos/GraphDB-logo.svg" alt="GraphDB logo"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.w3.org/2011/rdf-wg/wiki/Main_Page" title="RDF Resource Description Language"><img style="border:0px;" width="36" src="./logos/rdf.svg" alt="Turtle semantic data format"/></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="./logos/ruby-on-rails.svg" width="36" height="36" alt="Ruby on Rails" /></a>
