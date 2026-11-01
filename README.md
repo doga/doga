@@ -1,4 +1,4 @@
-Although I do a fair amount of closed source work, many of my projects are public-access on GitHub. Here are my most notable open source projects.
+Although I do a fair amount of closed source work, many of my projects are public-access on GitHub and on [JSR](https://jsr.io/user/9d201edf-5d16-4f36-b5a7-28add71c9e5f). Here are my most notable open source projects.
 
 ## Qworum
 
