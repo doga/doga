@@ -1,13 +1,73 @@
-Qworum is the Web for applications
-=========================
-
-Although much of what I do is closed source, some of my work is published on GitHub. Here are my most notable open source projects.
+Although I do a fair amount of closed source work, many of my projects are public-access on GitHub. Here are my most notable open source projects.
 
 ## Qworum
 
 [Qworum](https://qworum.net) is a new variant of the World Wide Web that is especially suitable for applications. This is in contrast to the current Web that is still fundamentally a content platform, even if nowadays Web pages have significant amounts of JavaScript sprinkled on them.
 
 Qworum is a commercial PaaS/iPaaS hybrid offering that is based on the first API technology to support interactive processes, which in turn is based on a [software patent](https://patents.google.com/patent/US8266632).
+
+[qworum-for-web-pages](https://github.com/doga/qworum-for-web-pages)
+
+## Some of my notable projects
+
+… and the dependency graph that links them together.
+
+```mermaid
+flowchart TD
+    subgraph javascript["JavaScript"]
+        punycode
+        IRI
+        language
+        rdf-dataflow["rdf-dataflow・🪲BUGGY"]
+        rdf-to-text
+        n3["N3.js"]:::external
+    end
+
+    subgraph browser["Browser"]
+        rdf-viewer-chrome-extension
+    end
+
+    subgraph deno["Deno"]
+        graphdb-sparql-client
+        qgeminiserver
+        geminispace-jsdoc-server
+    end
+
+    rdfjs-types["rdfjs/types"]:::external
+
+    IRI -- import --> punycode
+    language -- import (unnecessary) --> IRI
+    rdf-dataflow -- import --> IRI
+    rdf-dataflow -- import --> language
+    rdf-to-text -. external import .-> n3
+    rdf-to-text -- import --> IRI
+    rdf-to-text -- import --> language
+    rdf-viewer-chrome-extension == pulled-in import ==> language
+    rdf-viewer-chrome-extension == pulled-in import ==> IRI
+    rdf-viewer-chrome-extension == pulled-in import ==> punycode
+    rdf-viewer-chrome-extension == pulled-in import ==> rdf-to-text
+    rdf-viewer-chrome-extension == pulled-in external import ==> n3
+    geminispace-jsdoc-server -- import --> qgeminiserver
+    graphdb-sparql-client -- pulled-in import --> IRI
+    graphdb-sparql-client -. pulled-in external import .-> rdfjs-types
+
+    click punycode "https://github.com/doga/punycode"
+    click IRI "https://github.com/doga/IRI"
+    click language "https://github.com/doga/language"
+    click rdf-dataflow "https://github.com/doga/rdf-dataflow"
+    click rdf-to-text "https://github.com/doga/rdf-to-text"
+    click rdf-viewer-chrome-extension "https://github.com/doga/rdf-viewer-chrome-extension"
+    click n3 "https://github.com/rdfjs/N3.js"
+    click rdfjs-types "https://github.com/rdfjs/types"
+    click graphdb-sparql-client "https://jsr.io/@arma/graphdb-sparql-client"
+    click geminispace-jsdoc-server "https://jsr.io/@arma/geminispace-jsdoc-server"
+    click qgeminiserver "https://jsr.io/@arma/qgeminiserver"
+
+    style deno fill:#F8DF20,stroke:#333,stroke-width:4px,color:black,opacity:0.5;
+    style browser fill:#641DA4,stroke:#333,stroke-width:4px,color:white,opacity:0.9;
+    style javascript fill:#AE251C,stroke:#333,stroke-width:4px,color:white,opacity:0.9;
+    classDef external fill:blue,stroke:#333,stroke-width:4px;
+```
 
 ## What I am working with
 
