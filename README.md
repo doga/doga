@@ -60,7 +60,7 @@ flowchart TD
     geminispace-jsdoc-server -- import --> qgeminiserver
     graphdb-sparql-client -- pulled-in import --> IRI
     graphdb-sparql-client -. pulled-in external import .-> rdfjs-types
-    qworum-for-web-pages -- pulled-in import --> rdf-dataflow
+    qworum-for-web-pages -- import --> rdf-dataflow
     qworum-for-web-pages -- import --> IRI
     qworum-for-web-pages -- import --> n3
     qworum-application-template -- import --> language
