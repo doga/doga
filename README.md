@@ -49,7 +49,7 @@ flowchart TD
     language -- import (unnecessary) --> IRI
     rdf-dataflow -- import --> IRI
     rdf-dataflow -- import --> language
-    rdf-to-text -. external import .-> n3
+    rdf-to-text -- external import --> n3
     rdf-to-text -- import --> IRI
     rdf-to-text -- import --> language
     rdf-viewer-chrome-extension == pulled-in import ==> language
@@ -59,7 +59,7 @@ flowchart TD
     rdf-viewer-chrome-extension == pulled-in external import ==> n3
     geminispace-jsdoc-server -- import --> qgeminiserver
     graphdb-sparql-client -- pulled-in import --> IRI
-    graphdb-sparql-client -. pulled-in external import .-> rdfjs-types
+    graphdb-sparql-client -- pulled-in external import --> rdfjs-types
     qworum-for-web-pages -- import --> rdf-dataflow
     qworum-for-web-pages -- import --> IRI
     qworum-for-web-pages -- import --> n3
