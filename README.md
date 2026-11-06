@@ -30,7 +30,7 @@ flowchart TD
             qworum-for-web-pages
         end
 
-        subgraph webapps["Webapps"]
+        subgraph webapps["Qworum webapps"]
             qworum-application-template
             qworum-application-template-with-semantic-data
         end
