@@ -60,13 +60,13 @@ flowchart TD
     geminispace-jsdoc-server -- import --> qgeminiserver
     graphdb-sparql-client -- pulled-in import --> IRI
     graphdb-sparql-client -- pulled-in external import --> rdfjs-types
-    qworum-for-web-pages -- import --> rdf-dataflow
-    qworum-for-web-pages -- import --> IRI
-    qworum-for-web-pages -- import --> n3
-    qworum-application-template -. import .-> language
-    qworum-application-template -. import .-> qworum-for-web-pages
-    qworum-application-template-with-semantic-data -. import .-> language
-    qworum-application-template-with-semantic-data -. import .-> qworum-for-web-pages
+    qworum-for-web-pages -. import .-> rdf-dataflow
+    qworum-for-web-pages -. import .-> IRI
+    qworum-for-web-pages -. import .-> n3
+    qworum-application-template -- import --> language
+    qworum-application-template -- import --> qworum-for-web-pages
+    qworum-application-template-with-semantic-data -- import --> language
+    qworum-application-template-with-semantic-data -- import --> qworum-for-web-pages
 
     %% ═══ Click targets ═══
     click punycode "https://github.com/doga/punycode"
