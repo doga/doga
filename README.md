@@ -16,7 +16,7 @@ title: Dependencies between my projects; some external dependencies are also sho
 ---
 flowchart TD
     subgraph all[" "]
-        subgraph javascript["JavaScript"]
+        subgraph javascript["JavaScript (use in browsers and in off-browser runtimes)"]
             punycode
             IRI
             language
@@ -25,7 +25,7 @@ flowchart TD
             n3["N3.js"]:::external
         end
 
-        subgraph browser["Browser"]
+        subgraph browser["Web browser"]
             rdf-viewer-chrome-extension
             qworum-for-web-pages
         end
@@ -63,10 +63,10 @@ flowchart TD
     qworum-for-web-pages -- import --> rdf-dataflow
     qworum-for-web-pages -- import --> IRI
     qworum-for-web-pages -- import --> n3
-    qworum-application-template -- import --> language
-    qworum-application-template -- import --> qworum-for-web-pages
-    qworum-application-template-with-semantic-data -- import --> language
-    qworum-application-template-with-semantic-data -- import --> qworum-for-web-pages
+    qworum-application-template -. import .-> language
+    qworum-application-template -. import .-> qworum-for-web-pages
+    qworum-application-template-with-semantic-data -. import .-> language
+    qworum-application-template-with-semantic-data -. import .-> qworum-for-web-pages
 
     %% ═══ Click targets ═══
     click punycode "https://github.com/doga/punycode"
