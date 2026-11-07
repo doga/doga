@@ -83,7 +83,7 @@ flowchart TD
     click geminispace-jsdoc-server "https://jsr.io/@arma/geminispace-jsdoc-server"
     click qgeminiserver "https://jsr.io/@arma/qgeminiserver"
     click qworum-for-web-pages "https://github.com/doga/qworum-for-web-pages"
-    click qworum-browser-extension "https://qworum.net/docs/qworum-for-web-pages/latest/"
+    click qworum-browser-extension "https://chromewebstore.google.com/detail/qworum%E3%83%BBthe-service-web/leaofcglebjeebmnmlapbnfbjgfiaokg"
     click qworum-application-template "https://github.com/doga/qworum-application-template"
     click qworum-application-template-with-semantic-data "https://github.com/doga/qworum-application-template-with-semantic-data"
 
