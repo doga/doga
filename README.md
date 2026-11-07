@@ -27,7 +27,8 @@ flowchart TD
 
         subgraph browser["Web browser"]
             rdf-viewer-chrome-extension
-            qworum-for-web-pages
+            qworum-for-web-pages["qworum-for-web-pages (JavaScript library)"]
+            qworum-browser-extension["Qworum browser extension"]
         end
 
         subgraph webapps["Qworum webapps"]
@@ -63,6 +64,7 @@ flowchart TD
     qworum-for-web-pages -. import .-> rdf-dataflow
     qworum-for-web-pages -. import .-> IRI
     qworum-for-web-pages -. external import .-> n3
+    qworum-for-web-pages -. façade for .-> qworum-browser-extension
     qworum-application-template -- import --> language
     qworum-application-template -- import --> qworum-for-web-pages
     qworum-application-template-with-semantic-data -- import --> language
@@ -81,6 +83,7 @@ flowchart TD
     click geminispace-jsdoc-server "https://jsr.io/@arma/geminispace-jsdoc-server"
     click qgeminiserver "https://jsr.io/@arma/qgeminiserver"
     click qworum-for-web-pages "https://github.com/doga/qworum-for-web-pages"
+    click qworum-browser-extension "https://qworum.net/docs/qworum-for-web-pages/latest/"
     click qworum-application-template "https://github.com/doga/qworum-application-template"
     click qworum-application-template-with-semantic-data "https://github.com/doga/qworum-application-template-with-semantic-data"
 
