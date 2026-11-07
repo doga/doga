@@ -62,7 +62,7 @@ flowchart TD
     graphdb-sparql-client -- pulled-in external import --> rdfjs-types
     qworum-for-web-pages -. import .-> rdf-dataflow
     qworum-for-web-pages -. import .-> IRI
-    qworum-for-web-pages -. import .-> n3
+    qworum-for-web-pages -. external import .-> n3
     qworum-application-template -- import --> language
     qworum-application-template -- import --> qworum-for-web-pages
     qworum-application-template-with-semantic-data -- import --> language
