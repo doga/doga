@@ -22,6 +22,9 @@ flowchart TD
             language
             rdf-dataflow["rdf-dataflow"]
             rdf-to-text
+            rdf-encryption
+            js-utils
+            openpgp["OpenPGP"]:::external
             n3["N3.js"]:::external
         end
 
@@ -46,6 +49,11 @@ flowchart TD
     end
 
     %% ═══ Edges ═══
+    rdf-encryption -- import --> language
+    rdf-encryption -- import --> IRI
+    rdf-encryption -- import --> js-utils
+    rdf-encryption -- import --> n3
+    rdf-encryption -- import --> openpgp
     IRI -- import --> punycode
     language -- import (unnecessary) --> IRI
     rdf-dataflow -- import --> IRI
@@ -53,6 +61,7 @@ flowchart TD
     rdf-to-text -- external import --> n3
     rdf-to-text -- import --> IRI
     rdf-to-text -- import --> language
+    rdf-to-text -- import --> js-utils
     rdf-viewer-chrome-extension == pulled-in import ==> language
     rdf-viewer-chrome-extension == pulled-in import ==> IRI
     rdf-viewer-chrome-extension == pulled-in import ==> punycode
@@ -71,11 +80,14 @@ flowchart TD
     qworum-application-template-with-semantic-data -- import --> qworum-for-web-pages
 
     %% ═══ Click targets ═══
+    click rdf-encryption "https://github.com/doga/rdf-encryption"
+    click openpgp "https://github.com/openpgpjs/openpgpjs"
     click punycode "https://github.com/doga/punycode"
     click IRI "https://github.com/doga/IRI"
     click language "https://github.com/doga/language"
     click rdf-dataflow "https://github.com/doga/rdf-dataflow"
     click rdf-to-text "https://github.com/doga/rdf-to-text"
+    click js-utils "https://github.com/doga/js-utils"
     click rdf-viewer-chrome-extension "https://github.com/doga/rdf-viewer-chrome-extension"
     click n3 "https://github.com/rdfjs/N3.js"
     click rdfjs-types "https://github.com/rdfjs/types"
